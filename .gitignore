@@ -1,0 +1,43 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# next.js build output
+.next/
+out/
+
+# production
+dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel/
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# coverage reports
+coverage/
+
+# Optional: lock files (if you only use one)
+# yarn.lock
+# package-lock.json
